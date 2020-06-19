@@ -1,7 +1,5 @@
 # Python/Rust
 
-# Python2Rust
-
 ## In general
 
 [rust-for-pythonistas](https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/)
